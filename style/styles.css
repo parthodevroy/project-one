@@ -119,3 +119,38 @@ main{
     ;
 
 }
+.last{
+    
+}
+.finishing{
+    text-align: center;
+    padding: 40px 20px;
+    background-color:white
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+    font-size: 48px;
+    color: blue;
+    margin: 0;
+}
+.tagline{
+    font-size: 16px;
+    
+    margin-top: 10px;
+    min-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.nav-link{
+    list-style: none;
+    padding: 0;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.nav-link li{
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
