@@ -1,0 +1,121 @@
+.top-ber{
+    display: flex;
+    justify-content: space-between;
+    padding: 10em;
+}
+.header-head{
+    background-image: url(/Assets/Hero-bg.png);
+}
+.btn{
+    background-color: blue;
+}
+.hero{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+input [type=submit]{
+    padding: 10px 20px;
+    font-size: 16px;
+}
+.buta{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 0 auto;
+}
+.devision{
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    padding: 50px 50px;
+    background-color: aliceblue;
+    gap: 20px;
+    
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+
+.population{
+    width: 70%;
+    text-align: center;
+    align-items: center;
+    gap: 20px; ;
+
+    margin: auto;
+    text-align: center;
+    padding: 40px 20px;
+    background-color: beige;
+}
+.start h3{
+    font-size: 36px;
+    color: #3a3a3a;
+    margin-bottom: 5px;
+}
+.start p{
+    font-size: 16px;
+    color: #666;
+}
+.poster{
+    text-align: center;
+    padding: 20px 30px;
+}
+.boy{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    padding: 20px 20px;
+
+}
+.mainer{
+    background-color:wheat;
+}
+.sub{
+    font-size: 80px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+form{
+    
+}
+.middle{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    padding: 50px 50px;
+    
+    background-color: burlywood;
+}
+main{
+    align-items: center;
+    
+    
+}
+.final{
+    display: flex;
+    padding: 20px 30px;
+    gap: 70px;
+    
+    justify-content: center;
+    align-items: center;
+}
+.finalyer{
+    
+}
+.space{
+    padding: 5em;
+}
+.space-bold{
+    padding: 2em 
+    ;
+
+}
